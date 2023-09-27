@@ -1,0 +1,42 @@
+h1 {
+  color: blueviolet;
+}
+
+li {
+  color: coral;
+}
+
+a {
+  color: crimson;
+}
+a:hover {
+  text-decoration: underline;
+  color: blue;
+}
+
+h2 {
+  margin: auto;
+  color: rgb(110, 103, 118);
+}
+img {
+ color: cadetblue;
+}
+
+body {
+  font-family:Arial, Helvetica, sans-serif;
+ width: 500px;
+ height: 700px;
+ margin:30px auto;
+ background-color: rgb(255, 255, 255);
+ padding: 30px 75px;
+ border-radius: 35px;
+ margin-top: 80px;
+ }
+
+html {
+  background-color: blueviolet;
+}
+
+img {
+  margin: 27px 100px;
+}
